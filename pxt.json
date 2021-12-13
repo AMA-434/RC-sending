@@ -1,5 +1,5 @@
 {
-    "name": "hoge1",
+    "name": "RC-sending",
     "description": "",
     "dependencies": {
         "core": "*",
